@@ -3,10 +3,10 @@
 namespace ZnCore\DataProvider\Libs;
 
 use ZnCore\Collection\Interfaces\Enumerable;
-use ZnCore\Instance\Helpers\ClassHelper;
 use ZnCore\DataProvider\Entities\DataProviderEntity;
 use ZnCore\DataProvider\Interfaces\DataProviderInterface;
 use ZnCore\Domain\Interfaces\ReadAllInterface;
+use ZnCore\Instance\Helpers\ClassHelper;
 use ZnCore\Query\Entities\Query;
 use ZnCore\QueryFilter\Interfaces\ForgeQueryByFilterInterface;
 
